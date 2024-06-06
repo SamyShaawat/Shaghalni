@@ -35,7 +35,7 @@ const Navbar = () => {
         {/* logo */}
         <a href="/" className="flex items-center gap-2 text-2xl text-black">
           <img src="../images/Logo.png" alt="" />
-          <span>JobPortal</span>
+          <span>Shaghalni</span>
         </a>
 
         {/* nav items for large devices */}
